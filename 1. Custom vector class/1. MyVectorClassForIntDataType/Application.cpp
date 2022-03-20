@@ -23,4 +23,5 @@ int main()
 	MyVector v3{ 1, 2, 3, 4, 5 }; //this is how we inilize STL vector using initilizer_list
 	std::cout << v3 << std::endl; //implemented the same here for MyVector class
 	getchar();
+	return 0;
 }
