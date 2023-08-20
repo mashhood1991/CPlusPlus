@@ -10,7 +10,7 @@ public:
 		return m_width*m_height;
 	};
 
-protected: //declared as protected so that so that child class can use them
+protected: //declared as protected so that child class can use them
 	int m_width; //wdth of different shapes
 	int m_height; //height of different shapes
 };
